@@ -1,0 +1,1 @@
+23.10.2022	22:59:26	119f4f6a-9192-4d18-a4dc-5cb259238b9b	SyntaxError: Unexpected token , in JSON at position 18
